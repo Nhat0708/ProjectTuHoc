@@ -1,0 +1,15 @@
+D:\Ki_5\PRN211\18_DuongHaiNhat_Assgment3\BusinessObject\bin\Debug\net5.0\18_DuongHaiNhat_BusinessObject.deps.json
+D:\Ki_5\PRN211\18_DuongHaiNhat_Assgment3\BusinessObject\bin\Debug\net5.0\18_DuongHaiNhat_BusinessObject.runtimeconfig.json
+D:\Ki_5\PRN211\18_DuongHaiNhat_Assgment3\BusinessObject\bin\Debug\net5.0\18_DuongHaiNhat_BusinessObject.runtimeconfig.dev.json
+D:\Ki_5\PRN211\18_DuongHaiNhat_Assgment3\BusinessObject\bin\Debug\net5.0\18_DuongHaiNhat_BusinessObject.dll
+D:\Ki_5\PRN211\18_DuongHaiNhat_Assgment3\BusinessObject\bin\Debug\net5.0\18_DuongHaiNhat_BusinessObject.pdb
+D:\Ki_5\PRN211\18_DuongHaiNhat_Assgment3\BusinessObject\obj\Debug\net5.0\18_DuongHaiNhat_BusinessObject.csproj.AssemblyReference.cache
+D:\Ki_5\PRN211\18_DuongHaiNhat_Assgment3\BusinessObject\obj\Debug\net5.0\18_DuongHaiNhat_BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ki_5\PRN211\18_DuongHaiNhat_Assgment3\BusinessObject\obj\Debug\net5.0\18_DuongHaiNhat_BusinessObject.AssemblyInfoInputs.cache
+D:\Ki_5\PRN211\18_DuongHaiNhat_Assgment3\BusinessObject\obj\Debug\net5.0\18_DuongHaiNhat_BusinessObject.AssemblyInfo.cs
+D:\Ki_5\PRN211\18_DuongHaiNhat_Assgment3\BusinessObject\obj\Debug\net5.0\18_DuongHaiNhat_BusinessObject.csproj.CoreCompileInputs.cache
+D:\Ki_5\PRN211\18_DuongHaiNhat_Assgment3\BusinessObject\obj\Debug\net5.0\18_DuongHaiNhat_BusinessObject.dll
+D:\Ki_5\PRN211\18_DuongHaiNhat_Assgment3\BusinessObject\obj\Debug\net5.0\refint\18_DuongHaiNhat_BusinessObject.dll
+D:\Ki_5\PRN211\18_DuongHaiNhat_Assgment3\BusinessObject\obj\Debug\net5.0\18_DuongHaiNhat_BusinessObject.pdb
+D:\Ki_5\PRN211\18_DuongHaiNhat_Assgment3\BusinessObject\obj\Debug\net5.0\18_DuongHaiNhat_BusinessObject.genruntimeconfig.cache
+D:\Ki_5\PRN211\18_DuongHaiNhat_Assgment3\BusinessObject\obj\Debug\net5.0\ref\18_DuongHaiNhat_BusinessObject.dll

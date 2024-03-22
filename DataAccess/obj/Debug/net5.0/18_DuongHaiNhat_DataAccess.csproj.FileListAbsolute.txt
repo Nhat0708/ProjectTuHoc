@@ -1,0 +1,15 @@
+D:\Ki_5\PRN211\18_DuongHaiNhat_Assgment3\DataAccess\bin\Debug\net5.0\18_DuongHaiNhat_DataAccess.deps.json
+D:\Ki_5\PRN211\18_DuongHaiNhat_Assgment3\DataAccess\bin\Debug\net5.0\18_DuongHaiNhat_DataAccess.dll
+D:\Ki_5\PRN211\18_DuongHaiNhat_Assgment3\DataAccess\bin\Debug\net5.0\18_DuongHaiNhat_DataAccess.pdb
+D:\Ki_5\PRN211\18_DuongHaiNhat_Assgment3\DataAccess\bin\Debug\net5.0\18_DuongHaiNhat_BusinessObject.dll
+D:\Ki_5\PRN211\18_DuongHaiNhat_Assgment3\DataAccess\bin\Debug\net5.0\18_DuongHaiNhat_BusinessObject.pdb
+D:\Ki_5\PRN211\18_DuongHaiNhat_Assgment3\DataAccess\obj\Debug\net5.0\18_DuongHaiNhat_DataAccess.csproj.AssemblyReference.cache
+D:\Ki_5\PRN211\18_DuongHaiNhat_Assgment3\DataAccess\obj\Debug\net5.0\18_DuongHaiNhat_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ki_5\PRN211\18_DuongHaiNhat_Assgment3\DataAccess\obj\Debug\net5.0\18_DuongHaiNhat_DataAccess.AssemblyInfoInputs.cache
+D:\Ki_5\PRN211\18_DuongHaiNhat_Assgment3\DataAccess\obj\Debug\net5.0\18_DuongHaiNhat_DataAccess.AssemblyInfo.cs
+D:\Ki_5\PRN211\18_DuongHaiNhat_Assgment3\DataAccess\obj\Debug\net5.0\18_DuongHaiNhat_DataAccess.csproj.CoreCompileInputs.cache
+D:\Ki_5\PRN211\18_DuongHaiNhat_Assgment3\DataAccess\obj\Debug\net5.0\18_Duong.58060229.Up2Date
+D:\Ki_5\PRN211\18_DuongHaiNhat_Assgment3\DataAccess\obj\Debug\net5.0\18_DuongHaiNhat_DataAccess.dll
+D:\Ki_5\PRN211\18_DuongHaiNhat_Assgment3\DataAccess\obj\Debug\net5.0\refint\18_DuongHaiNhat_DataAccess.dll
+D:\Ki_5\PRN211\18_DuongHaiNhat_Assgment3\DataAccess\obj\Debug\net5.0\18_DuongHaiNhat_DataAccess.pdb
+D:\Ki_5\PRN211\18_DuongHaiNhat_Assgment3\DataAccess\obj\Debug\net5.0\ref\18_DuongHaiNhat_DataAccess.dll
